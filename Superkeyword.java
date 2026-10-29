@@ -1,4 +1,4 @@
-
+//It is a branch B2
    class Animal{
 
     String colour="Brown";
