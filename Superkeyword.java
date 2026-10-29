@@ -1,4 +1,5 @@
 //It is a B3 branch
+//It inherits from main
    class Animal{
 
     String colour="Brown";
