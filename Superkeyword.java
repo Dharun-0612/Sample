@@ -1,4 +1,5 @@
-class Animal{
+
+   class Animal{
 
     String colour="Brown";
 
