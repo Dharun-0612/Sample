@@ -1,5 +1,4 @@
-//It is a B3 branch
-//It inherits from main
+//It is merged
    class Animal{
 
     String colour="Brown";
