@@ -1,4 +1,4 @@
-It is merged
+//It is merged
    class Animal{
 
     String colour="Brown";
