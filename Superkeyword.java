@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 //It is a B1 branch
+=======
+//It is a B3 branch
+//It inherits from main
+>>>>>>> main
    class Animal{
 
     String colour="Brown";
